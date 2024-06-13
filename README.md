@@ -9,9 +9,9 @@ Generate Report: The application processes the data and generates a filtered rep
 User Notifications: The application provides user notifications for various events such as file upload, errors, and successful report generation.
 
 ## Requirements
-Python 3.x
-PyQt5
-pandas
+- Python 3.x
+- PyQt5
+- pandas
 
 ## Application Interface:
 Upload File: Click the "Upload File" button to select and upload your CSV file.
